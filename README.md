@@ -1,8 +1,8 @@
-# Hi, I am Mimo! Great to see you here! <img src="https://github.com/Mimo2k/Mimo2k/blob/e9bc1f7e6ea276bfc17ef4ea569c1f6310ccdfe5/Resources/Hi.gif" width="40px" />
+# Hi, I am Sousnav Debnath! Great to see you here! <img src="https://github.com/SOUSNAV-deb03/SOUSNAV-deb03/blob/e9bc1f7e6ea276bfc17ef4ea569c1f6310ccdfe5/Resources/Hi.gif" width="40px" />
 
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Mimo2k/Mimo2k/blob/ac4d65d6a743a20395d3d243c587b156a60fdc6b/Resources/myBanner.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/SOUSNAV-deb03/SOUSNAV-deb03/blob/ac4d65d6a743a20395d3d243c587b156a60fdc6b/Resources/myBanner.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Deep Learning 𝚊𝚗𝚍 Android Development**
@@ -13,20 +13,20 @@
 
 Connect with me:
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydeeppatra18101999@gmail.com)](mailto:joydeeppatra18101999@gmail.com) 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sousnavd@gmail.com)](mailto:sousnavd@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RewindON1) 
 <br/>
 <br/>
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mimo2k&style=flat&color=brightgreen"> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mimo2k?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Mimo2k?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SOUSNAV-deb03&style=flat&color=brightgreen"> 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/SOUSNAV-deb03?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/SOUSNAV-deb03?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <div align="center">
 
   </div>
 
-<img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
+<img src="https://github.com/SOUSNAV-deb03/SOUSNAV-deb03/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
 
 
 <!-- ## 👨🏻‍💻 Coding Profiles
@@ -36,7 +36,7 @@ Connect with me:
 <!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)-->
 <!--[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://)-->
 
-<img align='right' src="https://github.com/Mimo2k/Mimo2k/blob/6ca5e5ac39161e3ac858def5a163af1d34a8986b/Resources/wheel.svg?raw=true" width="450" height = "450">
+<img align='right' src="https://github.com/SOUSNAV-deb03/SOUSNAV-deb03/blob/6ca5e5ac39161e3ac858def5a163af1d34a8986b/Resources/wheel.svg?raw=true" width="450" height = "450">
 
 ## ⚡ Technologies
 
@@ -66,7 +66,7 @@ Connect with me:
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 
-<img src="https://github.com/Mimo2k/Mimo2k/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
+<img src="https://github.com/SOUSNAV-deb03/SOUSNAV-deb03/blob/76dc64efdd1ef2f91f48a1c7c476296185899ff0/Resources/laser.gif">
 <!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -77,16 +77,16 @@ Connect with me:
 
 ## 📈 Stats
 
-[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Mimo2k&theme=xcode)](https://github.com/Mimo2k) 
+[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SOUSNAV-deb03&theme=xcode)](https://github.com/SOUSNAV-deb03) 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mimo2k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mimo2k&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SOUSNAV-deb03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUSNAV-deb03&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mimo2k&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUSNAV-deb03&theme=tokyonight" />
 </p>
 
