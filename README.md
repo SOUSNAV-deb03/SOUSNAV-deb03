@@ -77,7 +77,7 @@ Connect with me:
 
 ## 📈 Stats
 
-[![Mimo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SOUSNAV-deb03&theme=xcode)](https://github.com/SOUSNAV-deb03) 
+[![Mimo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOUSNAV-deb03&theme=xcode)](https://github.com/SOUSNAV-deb03) 
 <table>
 <tr>
 <td>
